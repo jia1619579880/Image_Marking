@@ -1,0 +1,2 @@
+rtsp_ip:
+  - rtsp://admin:Aifjeport@2021@172.16.115.138:554/cam/realmonitor?channel=1&subtype=0

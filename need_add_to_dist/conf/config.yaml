@@ -1,0 +1,12 @@
+rtsp_ip:
+  # - rtsp://admin:Aifjeport@2021@172.16.115.137:554/
+  - rtsp://admin:Aifjeport@2021@172.16.115.137:554/cam/realmonitor?channel=1&subtype=0
+  # - rtsp://admin:Aifjeport@2021@172.16.115.137:554/cam/realmonitor?channel=1&subtype=0
+  - rtsp://admin:Aifjeport@2021@172.16.115.138:554/cam/realmonitor?channel=1&subtype=0
+  # - rtsp://admin:Aifjeport@2021@172.16.115.139:554/cam/realmonitor?channel=1&subtype=0
+  # - rtsp://admin:HT-1234567a@10.28.110.10/
+  # - rtsp://admin:HT-1234567a@10.28.110.11/
+  # - rtsp://admin:HT-1234567a@10.28.110.14/
+  # - rtsp://admin:HT-1234567a@10.28.110.15/
+  # - rtsp://admin:HT-1234567a@10.28.110.30/
+  # - rtsp://admin:HT-1234567a@10.28.110.31/
